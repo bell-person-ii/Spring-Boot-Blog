@@ -7,6 +7,14 @@
 4. Delete
 5. Login
 
-This page was made with Spring MVC pattern & connected with My SQL DataBase.
+This page was made with Spring MVC pattern & connected with H2-DataBase.
 
 Web pages are all rendered at Server Side by Thymeleaf
+
+### Read
+
+### Create
+
+### Update
+
+### Delete
