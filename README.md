@@ -17,6 +17,9 @@ Web pages are all rendered at Server Side by Thymeleaf
 
 ### Create
 <img src="https://raw.githubusercontent.com/bell-person-ii/Spring-Boot-Blog/master/img/%EA%B8%80%20%EB%93%B1%EB%A1%9D.png" width="50%" height="50%"/>
+
 ### Update
 <img src = "https://github.com/bell-person-ii/Spring-Boot-Blog/blob/master/img/%EA%B8%80%20%EC%88%98%EC%A0%95.png" width="50%" height="50%"/>
-### Delete
+
+### Login
+<img src = "https://raw.githubusercontent.com/bell-person-ii/Spring-Boot-Blog/master/img/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="50%" height="50%"/>
