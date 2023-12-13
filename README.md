@@ -8,4 +8,5 @@
 5. Login
 
 This page was made with Spring MVC pattern & connected with My SQL DataBase.
+
 Web pages are all rendered at Server Side by Thymeleaf
